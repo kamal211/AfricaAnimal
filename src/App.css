@@ -1,0 +1,15 @@
+div.body{
+  background-color: #F3F3F3;
+}
+/* Navbar */
+.navbar{
+  background-color: #2D56CF;
+} 
+img.logo{
+  height: 8rem;
+  width: 10rem;
+  
+}
+.navbar-nav a{
+  font-size: 18px;
+}
